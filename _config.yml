@@ -1,0 +1,14 @@
+layout_spectrum: 0.8854192
+typography_spectrum: 0.4202595
+color:
+  saturation: 0.9018449
+  lightness: 0.2771211
+  brandStrength: 0.8901179
+  rhythmicContrast: 0.714442
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: James Armstrong
